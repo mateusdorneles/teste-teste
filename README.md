@@ -4,5 +4,5 @@ teste
 
 # OLÁ MEU AMORZINHO 
 
-![Papoi](../teste-teste/img/papoi.gif)
+![Papoi](./img/papoi.gif)
 
